@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SEI-125 Post-Cohort Resources
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SEI-125 Post-Cohort Resources 🎓
 
-We have spent the last three months working hard and becoming software engineers, and all your hard work has paid off: now its time for the *really fun part!* Using your new skills as a coder, you can now continue to grow as your interests and passions guide your studies and career path.
+We have spent the last three months working hard and becoming software engineers, and all your hard work has paid off: now its time for the *really fun part!* Using your new skills as a coder, you can now continue to grow as your interests and passions guide your studies and career path. 💫
 
 There are so many areas of specialization and knowledge to study in this field, you can let your interests guide you as embark on your post cohort studies.
 
@@ -69,8 +69,6 @@ Focus: Learning a New Tech
 | 9am - 10am | 10am - 11am | 11am - 12pm | 12pm - 1pm | 1pm - 3pm | 3pm - 5pm |
 |------------|-------------|-------------|------------|-----------|-----------|
 | Study One Algorithm/Data Structure | Code Challenges/White board practice related to the Algorithm/Data Structure | Start Job Search/Networking | Lunch | Jop Search, Job Apps, Networking | Study New Tech/Work on project with new Tech |
-
-
 
 ## Class Resources
 
