@@ -72,9 +72,9 @@ Focus: Learning a New Tech
 
 ## 📓 Class Resources
 
-It is recommended that you take some time and review the materials from the cohort, focusing on any knowledge areas you need build up. 
+It is recommended that you take some time and review the materials from the cohort, focusing on any knowledge areas you need build up.
 
-Revisiting fundamental concepts such as _The more your know, the more you grow!_ 
+Revisiting fundamental topics will prove to be enourmously benificial because with your current coding skills, you will be able to dive deeper and solidify your foundational knowledge even more. _**The more your know, the more you grow!**_ 
 
 * [GitBook](https://gawdiseattle.gitbook.io/wdi/) notes for all the topics we covered, and many more
 * [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y19wajkxbHNqOXM4NGY4N2p0MWE2aWd2MmM4Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) the single source of truth
@@ -142,6 +142,8 @@ Sometimes the hardest part of a project is coming up with the idea.
 * [Publish your own npm package](https://hackernoon.com/how-to-publish-your-package-on-npm-7fc1f5aae600) -- you can totally can and should do that.
 * Write tutorial articles on [Medium](https://medium.com/the-write-brain/how-to-start-writing-on-medium-a-tutorial-a5d89926f5ef), [Dev.to](https://dev.to/) or [Hacker Noon](https://hackernoon.com/) about the things you are studying.
     * Wondering about the differences? Check [this](https://ritza.co/showcase/dev-to-vs-medium-vs-hashnode-vs-hackernoon.html) blog out for a comparison
+* If you are ever feeling bored with the possibilities of a web app, checkout the [Non-exhaustive list of web browser APIs](https://github.com/luruke/browser-2020) to get some inspiration for what is possible
+
 
 #### Getting involved in an open source  
 
