@@ -18,7 +18,7 @@ This document is meant to give a outline of how to succeed post-cohort with the 
 
 _If you have any resources you would like to share with everyone or find to be super helpful in the future, submit a pull request to this repo and they will get merged in!_
 
-### 📈 The Recipe for Success
+## 📈 The Recipe for Success
 
 * treat your studies and employment search like a 9 - 5 job: *punch in at 9 am and spend all day until 5 pm studying and job searching*
   * keeping so called 'banking hours (9am - 5pm)' is recommended because this is when potential employers are most active and will be communicating with you.
@@ -39,7 +39,7 @@ _If you have any resources you would like to share with everyone or find to be s
 * Spend time focusing on knowledge areas you need to strengthen -- going over each unit and identifying the concepts you need more reps on is recommended.
 * [*Eat the Frog*](https://todoist.com/productivity-methods/eat-the-frog) -- every part of the recipe is as important as the others, so if there is one part you are avoiding -- *do it first*. **Everyday.** **_Eat the Frog first thing._** 
 
-### 🙌 Example daily study plans
+## 🙌 Example Daily Study Plans
 
 When planning out your daily studies post cohort, it is helpful to identify what your frog is and the area you would like to focus your studies. After a week or two of using the same daily study plan, you should spend some time reflecting and then update your focus and frog to write a new study plan. 
 
