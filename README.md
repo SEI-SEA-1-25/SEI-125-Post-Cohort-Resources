@@ -180,6 +180,7 @@ Don't judge a book by its price, these are all excellent resources:
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) is a series of books that focus on fondational JS topics
 * [Essential Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) is an older but still relevant book that takes a deep dive into specific programming patterns in JS, many of which are still commonly used while others have been implemented as language features 
 * [API on Rails](https://github.com/madeindjs/api_on_rails) is a one-stop-shop for getting into rails backend
+* [Learn x in y Minutes](https://learnxinyminutes.com/) isn't exactly a book per se, its more like a collection of crashcourse type cheatsheets for coding topics. 'Take a whirlwind tour of your next favorite language. Community-driven!'
 
 ## 💰 Money Costing Books
 
