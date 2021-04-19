@@ -55,6 +55,7 @@ When planning out your daily studies post cohort, it is helpful to identify what
 ##### Ex. 1
 
 Frog: Networking and Job Apps
+
 Focus: Review and Portfolio Polishing
 
 | 9am - 12pm | 12pm - 1pm | 1pm - 2pm | 2pm - 3:30pm | 3:30pm - 5pm |
@@ -64,6 +65,7 @@ Focus: Review and Portfolio Polishing
 ##### Ex. 2
 
 Frog: Algorithms and Code Challenges
+
 Focus: Learning a New Tech
 
 | 9am - 10am | 10am - 11am | 11am - 12pm | 12pm - 1pm | 1pm - 3pm | 3pm - 5pm |
